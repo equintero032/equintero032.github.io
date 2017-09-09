@@ -2,4 +2,5 @@
 
 # About Me
 
-# [Contact Me] (equintero21@student.alamo.edu)
+# Contact Me 
+(equintero21@student.alamo.edu)
