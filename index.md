@@ -3,4 +3,4 @@
 # About Me
 
 # Contact Me 
-(equintero21@student.alamo.edu)
+equintero21@student.alamo.edu
