@@ -22,15 +22,25 @@ The player takes the role of Postal Dude in an effort to complete everyday erran
 ### Single/Multiplayer
 ### Controls
 W - Move Forward
+
 A - Move Left
+
 S - Move Back
+
 D - Move Right
+
 LMB - Primary Fire
+
 RMB - Secondary Fire
+
 MMB - Scroll Weapons
+
 Space Bar - Jump
+
 Ctrl - Crouch
+
 [ and ] - Previous/Next Item
+
 # Bugs
 What bugs happened during your critique.
 # Final Thoughts
