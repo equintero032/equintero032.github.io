@@ -20,6 +20,7 @@ The player takes the role of Postal Dude in an effort to complete everyday erran
 
 ## Playability
 ### Single/Multiplayer
+Single-Player
 ### Controls
 W - Move Forward
 
@@ -41,7 +42,8 @@ Ctrl - Crouch
 
 [ and ] - Previous/Next Item
 
+R - Zip/Unzip Pants
 # Bugs
-What bugs happened during your critique.
+Got stuck on sloped end of trailer at start of the game.
 # Final Thoughts
 One paragraph summary of your overall viewpoint of the game.
