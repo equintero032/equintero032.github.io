@@ -40,10 +40,10 @@ Space Bar - Jump
 
 Ctrl - Crouch
 
-[ and ] - Previous/Next Item
+[ / ] - Previous/Next Item
 
 R - Zip/Unzip Pants
 # Bugs
 Got stuck on sloped end of trailer at start of the game.
 # Final Thoughts
-One paragraph summary of your overall viewpoint of the game.
+Overall Postal 2 is as fun as it was controversial at its release. A common problem that involves getting the character model stuck in some locations is quickly alleviated by a built-in system that detects if they player is stuck and teleports them to another spot nearby. Controls are nicely placed and don't interfere with gameplay flow much.
