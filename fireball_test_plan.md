@@ -15,7 +15,12 @@ The objective is to test whether the controls and game mechanics function as int
 ## Section 2
 
 ## Test Description
-
+Test will involve making sure that the L1, R1, L2, R2, X, Circle, Square and Triangle perform their desired tasks.
 ## Test Team
+Fuze
+Captain Clown
+Marquee
+## Milestones
 
-## 
+## Budget
+None. We test or get Fuzed.
