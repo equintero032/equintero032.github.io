@@ -56,7 +56,7 @@
 * Test Case Name:
   * New Game
 * Component: 
-  * Description
+  * Ensure the game starts a new game properly.
 * Test Case Designer:
   * The Aussy
 * Creation Date:
@@ -68,7 +68,7 @@
 * Requirements Covered:
   * 
 * Test Description/Purpose:
-  * The game starts a new game correctly
+  * The game starts a new game correctly.
 * Pre-Test Conditions:
   * Description
 ## Test Steps: 
@@ -103,13 +103,13 @@
 * Test Case ID:
   * 3
 * Test Case Name:
-  * #Number
+  * Movie Driver
 * Component: 
-  * Description
+  * Make sure movie driver works properly.
 * Test Case Designer:
-  * Name
+  * The Dapper Man
 * Creation Date:
-  * Date
+  * 10/24/17
 * Modified By:
   * Name
 * Modified Date:
@@ -117,17 +117,17 @@
 * Requirements Covered:
   * Description
 * Test Description/Purpose:
-  * Description
+  * Make sure movie driver works properly.
 * Pre-Test Conditions:
   * Description
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | | | |			
-| 3 | | | |			
-| 4 | | | |			
-| 5 | | | |			
+| 1 | Start up game| game starts up| |			
+| 2 | Select Story Mode| Story Mode starts| |			
+| 3 | Select New Game| game should pre-load information about movie and movie should start playing after player sets up a new game| |			
+| 4 | Pause the game during movie| The movie should be paused| |			
+| 5 | Skip the movie| movie ends and game control is returned| |			
 | 6 | | | |			
 | 7 | | | |			
 | 8 | | | |			
