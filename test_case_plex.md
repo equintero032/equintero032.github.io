@@ -9,17 +9,17 @@
 * Component: 
   * Test to see whether the save and load functions work.
 * Test Case Designer:
-  * Name
+  * The Clown
 * Creation Date:
   * 10/17/2017
 * Modified By:
-  * Name
+  * 
 * Modified Date:
-  * Date
+  * 
 * Requirements Covered:
   * The game creates a save file and loads it properly.
 * Test Description/Purpose:
-  * Description
+  * Save file is properly made and can be properly loaded
 * Pre-Test Conditions:
   * Description
 ## Test Steps: 
@@ -52,32 +52,32 @@
 ## Test Details
 
 * Test Case ID:
-  * #Number
+  * 2
 * Test Case Name:
-  * #Number
+  * New Game
 * Component: 
   * Description
 * Test Case Designer:
-  * Name
+  * The Aussy
 * Creation Date:
-  * Date
+  * 10/24/2017
 * Modified By:
-  * Name
+  * 
 * Modified Date:
-  * Date
+  * 
 * Requirements Covered:
-  * Description
+  * 
 * Test Description/Purpose:
-  * Description
+  * The game starts a new game correctly
 * Pre-Test Conditions:
   * Description
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | | | |			
-| 3 | | | |			
-| 4 | | | |			
+| 1 | Start game| Game starts up| |			
+| 2 | Select Story Mode| story mode starts| |			
+| 3 | Select New Game| new game starts and takes player to character select screen| |			
+| 4 | Player selects desired character| selected character spawns in the world with character appropriate puzzles| |			
 | 5 | | | |			
 | 6 | | | |			
 | 7 | | | |			
@@ -101,7 +101,7 @@
 ## Test Details
 
 * Test Case ID:
-  * #Number
+  * 3
 * Test Case Name:
   * #Number
 * Component: 
