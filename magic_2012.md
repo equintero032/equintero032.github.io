@@ -45,5 +45,4 @@ Free Selection - Right Thumbstick
 # Bugs
 Significant framerate drop when board gets populated with 40+ cards.
 # Final Thoughts
-One paragraph summary of your overall viewpoint of the game.
-
+A fun game that allows for good replayability with the amount of decks (moreso with the DLC decks). The AI can be trying at times as it seems to get the right cards at the right time. The gameplay is extended with DLC for an expanded campaign and an additional game mode called Archenemy.
