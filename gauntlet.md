@@ -39,4 +39,4 @@ Magic - B
 # Bugs
 Encountered bug where I was unable to pick up a key.
 # Final Thoughts
-One paragraph summary of your overall viewpoint of the game.
+Fun arcade game with simple controls. Characters are balanced as they each have their own strengths and weaknesses.
