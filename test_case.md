@@ -47,11 +47,6 @@
 | 2 | | | |			
 | 3 | | | |			
 
-
-
-Acquired 80 Endo First Collection
-Synthula Second Collection
-
 # Test Case 02
 
 ## Test Details
@@ -91,7 +86,7 @@ Synthula Second Collection
 | 10 |  |  |  |                    
 
 ## Overall Test Status:
-Encountered Grustrag Three just after completing main objective
+
 
 
 ## Run History:
@@ -193,7 +188,7 @@ Encountered Grustrag Three just after completing main objective
 | 12 | Head to extraction point.| Character enters ship, end animation plays, and load screen appears, then player is returned to their ship |  |        
 
 ## Overall Test Status:
-Was attacked by Moa Eximus platoon sent by The Perrin Sequence while completing the main objective.
+
 
 
 ## Run History:
