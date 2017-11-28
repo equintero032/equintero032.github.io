@@ -1,6 +1,6 @@
 # Information
 ## Game Title
-Mace Grifffin: Bounty Hunter
+Mace Griffin: Bounty Hunter
 ## Game Type
 First Person Shooter
 ## Platform
