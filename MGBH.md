@@ -51,4 +51,4 @@ Pause and Objectives - Start
 # Bugs
 What bugs happened during your critique.
 # Final Thoughts
-One paragraph summary of your overall viewpoint of the game.
+Game has nice seamless transitions between FPS and space flight modes. Some areas can be too dark and 
