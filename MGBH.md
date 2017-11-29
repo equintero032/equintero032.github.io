@@ -1,6 +1,6 @@
 # Information
 ## Game Title
-Mace Griffin: Bounty Hunter
+Mace Griffin: Bounty Hunter (Xbox)
 ## Game Type
 First Person Shooter
 ## Platform
@@ -14,7 +14,7 @@ Warthog Games
 ## Publishing Date
 June 17, 2003
 # Synopsis
-Game premise or short one to two sentence overview
+While on a mission Mace Griffin is framed for the deaths of his comrades. After getting out of prison he becomes a bounty hunter and searches for answers as to who killed his team.
 
 # Game Play Summary
 ## Playability
@@ -49,6 +49,6 @@ Action - Y
 Pause and Objectives - Start
 
 # Bugs
-What bugs happened during your critique.
+Bug where enemy would not notice player as they walked through a door. Instead shot at a group of explosive barrels across the room from the player was. Occured in room with crouch tutorial.
 # Final Thoughts
-Game has nice seamless transitions between FPS and space flight modes. Some areas can be too dark and 
+Game has seamless transitions between FPS and space flight modes. Without no flashlight in the game, some areas can be so dark that it is difficult to tell where to go. Game also lacks look sensitivity adjustment making combat feel sluggish at times.
