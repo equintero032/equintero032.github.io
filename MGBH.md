@@ -49,6 +49,6 @@ Action - Y
 Pause and Objectives - Start
 
 # Bugs
-Bug where enemy would not notice player as they walked through a door. Instead shot at a group of explosive barrels across the room from the player was. Occured in room with crouch tutorial.
+Bug where enemy would not notice player as they walked through a door. Instead, enemy shot at a group of explosive barrels across the room from where the player was. Occured in room with crouch tutorial.
 # Final Thoughts
 Game has seamless transitions between FPS and space flight modes. Without no flashlight in the game, some areas can be so dark that it is difficult to tell where to go. Game also lacks look sensitivity adjustment making combat feel sluggish at times.
