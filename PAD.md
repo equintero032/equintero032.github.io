@@ -6,7 +6,7 @@ Puzzle, Role-Playing
 ## Platform
 Android, iOS, Kindle Fire
 ## Game Rating
-metacritic score 
+7/10 Pocket Gamer
 ## Publisher
 GungHo Online Entertainment
 ## Developer
@@ -23,14 +23,14 @@ Kindle Fire
 JP: January 11, 2013
 NA: June 23, 2014
 # Synopsis
-Game premise or short one to two sentence overview
+The player goes through various dungeons while matching colored orbs to attack with creatures on their team.
 
 # Game Play Summary
 ## Playability
 ### Single/Multiplayer
 ### Controls
-
+Touch screen to move orbs.
 # Bugs
-What bugs happened during your critique.
+Encountered audio delay between moving orbs and when the sound plays for moving them.
 # Final Thoughts
-One paragraph summary of your overall viewpoint of the game.
+Difficulty ramp is can vary as the certain leader cards are stronger than others and receiving cards through the egg machine is RNG. In-game currency can be aquired through the in-game mail from events as well as for the first time completing a dungeon. This is useful if the player wants to minimize or not use in-app-purchases at all. 
