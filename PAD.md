@@ -28,6 +28,7 @@ The player goes through various dungeons while matching colored orbs to attack w
 # Game Play Summary
 ## Playability
 ### Single/Multiplayer
+Single-player and Co-Op
 ### Controls
 Touch screen to move orbs.
 # Bugs
