@@ -5,6 +5,11 @@ FN:DoctorProfessor
 ORG:Cobra
 TITLE:Grunt
 TEL;CELL;VOICE:(555)-555-5555
-ADR;HOME:;500 Del Perro Heights Apt.4;Los Santos;California;United States of America
+ADR;HOME:;500 Del Perro Heights Apt.4;Los Santos;San Andreas;United States of America
 EMAIL:notadrugrunner@mail.com
+CAR:Osiris
+HAIR:Brown
+WEAPON:Minigun
+REPUTATION:Kingpin
+RANK:214
 END:VCARD
