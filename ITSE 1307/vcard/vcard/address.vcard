@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:2.1
+N:Professor;Doctor;;
+FN:DoctorProfessor
+ORG:Cobra
+TITLE:Grunt
+TEL;CELL;VOICE:(555)-555-5555
+ADR;HOME:;500 Del Perro Heights Apt.4;Los Santos;California;United States of America
+EMAIL:notadrugrunner@mail.com
+END:VCARD
